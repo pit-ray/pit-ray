@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats-lime-five-13.vercel.app/api/top-langs/?username=pit-ray&layout=compact)
+![github stats](https://github-readme-stats-lime-five-13.vercel.app/api?username=pit-ray&hide=contribs&show_icons=true)
